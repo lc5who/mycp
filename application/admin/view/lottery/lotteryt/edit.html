@@ -1,0 +1,46 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Qishu')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-qishu" data-rule="required" class="form-control" name="row[qishu]" type="number" value="{$row.qishu|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Kaipan')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-kaipan" data-rule="required" class="form-control datetimepicker" data-date-format="HH:mm:ss" data-use-current="true" name="row[kaipan]" type="text" value="{$row.kaipan}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Fengpan')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-fengpan" data-rule="required" class="form-control datetimepicker" data-date-format="HH:mm:ss" data-use-current="true" name="row[fengpan]" type="text" value="{$row.fengpan}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Kaijiang')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-kaijiang" data-rule="required" class="form-control datetimepicker" data-date-format="HH:mm:ss" data-use-current="true" name="row[kaijiang]" type="text" value="{$row.kaijiang}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ok')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-ok" data-rule="required" class="form-control" name="row[ok]" type="number" value="{$row.ok|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Csk')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-csk" data-rule="required" class="form-control" name="row[csk]" type="number" value="{$row.csk|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

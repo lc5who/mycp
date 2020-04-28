@@ -1,0 +1,1110 @@
+[ 2020-04-29T00:18:06+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:19]
+[ 2020-04-29T00:18:11+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T01:21:11+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:19]
+[ 2020-04-29T01:21:16+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T03:44:44+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000091s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T03:44:44+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T03:44:44+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011243s ]
+[ 2020-04-29T03:58:54+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000166s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T03:58:54+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T03:58:54+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013359s ]
+[ 2020-04-29T03:58:54+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T03:59:08+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000091s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T03:59:08+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T03:59:08+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011826s ]
+[ 2020-04-29T03:59:08+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:01:41+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000091s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T04:01:41+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T04:01:41+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011651s ]
+[ 2020-04-29T04:01:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000095s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T04:01:50+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T04:01:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012976s ]
+[ 2020-04-29T04:01:50+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:01:54+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000127s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T04:01:54+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T04:01:54+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.017335s ]
+[ 2020-04-29T04:01:54+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:32:44+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:19]
+[ 2020-04-29T04:32:49+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:32:49+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:19]
+[ 2020-04-29T04:32:55+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:32:55+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:19]
+[ 2020-04-29T04:33:00+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:33:00+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:19]
+[ 2020-04-29T04:33:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:33:05+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:19]
+[ 2020-04-29T04:33:11+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:39:01+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:39:06+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:39:07+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:39:12+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:39:12+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:39:17+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:39:17+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:39:23+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:39:23+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:39:28+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:39:28+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:39:34+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:39:34+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:39:39+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:39:39+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:39:44+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:39:44+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:39:50+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:39:50+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:39:56+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:39:56+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:40:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:40:01+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:40:06+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:40:06+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:40:12+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:40:12+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:40:17+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:40:18+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:40:23+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:40:23+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:40:28+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:40:28+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:40:34+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:40:34+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:40:39+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:40:40+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:40:45+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:40:45+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:40:50+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:40:50+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:40:56+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:40:56+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:41:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:41:01+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:41:07+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:41:07+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:41:12+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:41:12+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:41:18+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:41:18+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:41:23+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:41:24+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:41:29+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:41:29+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:41:34+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:41:34+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:41:40+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:41:40+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:41:45+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:41:45+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:41:51+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:41:51+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:41:56+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:41:56+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:42:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:42:02+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:42:07+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:42:07+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:42:13+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:42:13+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:42:18+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:42:18+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:42:23+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:42:24+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:42:29+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:42:29+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:42:34+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:42:34+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:42:40+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:42:40+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:42:45+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:42:45+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:42:51+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:42:51+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:42:56+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:42:56+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:43:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:43:02+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:43:07+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:43:07+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:43:13+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:43:13+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:43:19+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:43:19+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:43:24+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:43:24+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:43:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:43:30+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:43:35+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:43:35+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:43:40+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:43:40+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:43:46+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:43:46+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:43:51+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:43:51+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:43:57+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:43:57+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:02+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:08+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:08+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:13+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:13+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:19+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:19+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:24+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:24+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:30+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000090s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T04:44:30+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T04:44:30+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011751s ]
+[ 2020-04-29T04:44:30+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T04:44:30+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T04:44:30+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2020-04-29T04:44:30+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T04:44:30+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T04:44:30+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T04:44:30+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006875s ]
+[ 2020-04-29T04:44:35+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000095s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T04:44:35+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T04:44:35+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011372s ]
+[ 2020-04-29T04:44:35+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T04:44:35+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T04:44:35+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T04:44:35+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T04:44:35+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T04:44:35+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T04:44:35+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006184s ]
+[ 2020-04-29T04:44:37+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:37+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:38+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:38+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:39+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:39+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:41+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:41+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:42+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:42+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:43+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:43+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:45+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:45+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:46+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:46+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:47+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:47+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:49+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:49+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:50+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:50+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:51+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:51+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:44:53+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:44:53+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:45:43+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000084s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T04:45:43+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T04:45:44+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011579s ]
+[ 2020-04-29T04:45:44+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T04:45:44+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T04:45:44+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T04:45:44+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T04:45:44+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T04:45:44+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T04:45:44+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.007044s ]
+[ 2020-04-29T04:45:49+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:45:49+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'result' cannot be null[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T04:47:32+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000269s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T04:47:32+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T04:47:32+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010447s ]
+[ 2020-04-29T04:47:32+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T04:47:32+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T04:47:32+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T04:47:32+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T04:47:32+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T04:47:32+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T04:47:32+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006241s ]
+[ 2020-04-29T04:47:37+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T04:49:16+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000093s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T04:49:16+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T04:49:16+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010426s ]
+[ 2020-04-29T04:49:16+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T04:49:16+08:00 ][ info ] [ BIND ] 'api/Jiesuan'
+[ 2020-04-29T04:49:16+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Jiesuan',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T04:49:16+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T04:49:16+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T04:49:16+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T04:49:16+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005725s ]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:16+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:17+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:18+08:00 ][ error ] [0]class \Protocols\TaskWorker not exist[/www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php:2299]
+[ 2020-04-29T04:49:44+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000099s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T04:49:44+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T04:49:44+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013536s ]
+[ 2020-04-29T04:49:44+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T04:49:44+08:00 ][ info ] [ BIND ] 'api/Jiesuan'
+[ 2020-04-29T04:49:44+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Jiesuan',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T04:49:44+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T04:49:44+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T04:49:44+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T04:49:44+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.008609s ]
+[ 2020-04-29T04:50:00+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000091s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T04:50:00+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T04:50:00+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012066s ]
+[ 2020-04-29T04:50:00+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T04:50:00+08:00 ][ info ] [ BIND ] 'api/Jiesuan'
+[ 2020-04-29T04:50:00+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Jiesuan',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T04:50:00+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T04:50:00+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T04:50:00+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T04:50:00+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.007060s ]
+[ 2020-04-29T04:56:15+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000150s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T04:56:15+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T04:56:15+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009812s ]
+[ 2020-04-29T04:56:15+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T04:56:15+08:00 ][ info ] [ BIND ] 'api/Jiesuan'
+[ 2020-04-29T04:56:15+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Jiesuan',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T04:56:15+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T04:56:15+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T04:56:15+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T04:56:15+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005765s ]
+[ 2020-04-29T05:09:00+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000124s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T05:09:00+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T05:09:00+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010542s ]
+[ 2020-04-29T05:09:00+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T05:09:00+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T05:09:00+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T05:09:00+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T05:09:00+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T05:09:00+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T05:09:00+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006441s ]
+[ 2020-04-29T05:09:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:10:27+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000093s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T05:10:27+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T05:10:27+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011263s ]
+[ 2020-04-29T05:10:27+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T05:10:27+08:00 ][ info ] [ BIND ] 'api/Jiesuan'
+[ 2020-04-29T05:10:27+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Jiesuan',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T05:10:27+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T05:10:27+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T05:10:27+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T05:10:28+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006278s ]
+[ 2020-04-29T05:11:51+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000095s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T05:11:51+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T05:11:51+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011855s ]
+[ 2020-04-29T05:11:51+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T05:11:51+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T05:11:51+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T05:11:51+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T05:11:51+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T05:11:51+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T05:11:51+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.007186s ]
+[ 2020-04-29T05:11:57+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:15:11+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000119s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T05:15:11+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T05:15:11+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008920s ]
+[ 2020-04-29T05:15:12+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T05:15:12+08:00 ][ info ] [ BIND ] 'api/Jiesuan'
+[ 2020-04-29T05:15:12+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Jiesuan',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T05:15:12+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T05:15:12+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T05:15:12+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T05:15:12+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006091s ]
+[ 2020-04-29T05:20:08+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000087s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T05:20:08+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T05:20:08+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012207s ]
+[ 2020-04-29T05:20:08+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T05:20:08+08:00 ][ info ] [ BIND ] 'api/Jiesuan'
+[ 2020-04-29T05:20:08+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Jiesuan',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T05:20:08+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T05:20:08+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T05:20:08+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T05:20:08+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.007052s ]
+[ 2020-04-29T05:20:16+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000141s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T05:20:16+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T05:20:16+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012068s ]
+[ 2020-04-29T05:20:16+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T05:20:16+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T05:20:16+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T05:20:16+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T05:20:16+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T05:20:16+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T05:20:16+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006837s ]
+[ 2020-04-29T05:20:22+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:51:59+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:52:04+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:52:04+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:52:09+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:52:09+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:52:15+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:52:15+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:52:20+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:52:25+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:52:31+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:52:31+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:52:36+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:53:51+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:53:56+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:53:57+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:54:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:54:02+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:54:07+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:54:07+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:54:13+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:54:13+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:54:18+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:54:18+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:54:23+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:54:23+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:54:29+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:54:29+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:54:34+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:54:34+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:54:39+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:54:39+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:54:45+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:54:45+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:54:50+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:54:50+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:54:55+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:54:55+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:55:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:55:01+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:55:06+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:55:06+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:55:12+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:55:12+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:55:17+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:55:17+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:55:22+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:55:22+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:55:28+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:55:28+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:55:33+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:55:33+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:55:39+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:55:39+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:55:44+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:55:44+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:55:49+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:55:49+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:55:55+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:55:55+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:00+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:00+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:05+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:11+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:11+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:16+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:16+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:21+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:21+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:27+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:27+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:32+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:32+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:37+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:37+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:43+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:43+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:48+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:48+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:53+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:53+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:56:59+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:56:59+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:57:04+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:57:04+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:57:09+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:57:09+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:57:15+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:57:15+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:57:20+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:57:20+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:57:25+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:57:25+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:57:31+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:57:31+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:57:36+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:57:36+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:57:42+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:57:42+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:57:47+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:57:47+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:57:52+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:57:52+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:57:58+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:57:58+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:58:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:58:03+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:58:08+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:58:08+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:58:14+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:58:14+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:58:19+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:58:19+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:58:24+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:58:24+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:58:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:58:30+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:58:35+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:58:35+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:58:40+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:58:40+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:58:46+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:58:46+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:58:51+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:58:51+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:58:56+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:58:56+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:59:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:59:02+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:59:07+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:59:07+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:59:12+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:59:12+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:59:18+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:59:18+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:59:23+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:59:23+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:59:28+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:59:28+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:59:34+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:59:34+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:59:39+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:59:39+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:59:44+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:59:44+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:59:50+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:59:50+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T05:59:55+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T05:59:55+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:00:00+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:00:00+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:00:06+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:00:06+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:00:11+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:00:11+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:00:16+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:00:16+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:00:22+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:00:22+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:00:27+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:00:27+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:00:33+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:00:33+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:00:38+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:00:38+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:00:43+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:00:43+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:00:49+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:00:49+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:00:54+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:00:54+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:01:00+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:01:00+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:01:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:01:05+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:01:10+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:01:10+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:01:16+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:11:21+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:11:27+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:11:27+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:11:32+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:11:32+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:11:37+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:11:37+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:11:43+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:11:43+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:11:48+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:11:48+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:11:54+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:11:54+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:11:59+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:11:59+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:12:04+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:12:04+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:12:10+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:12:10+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:12:15+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:12:15+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:12:20+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:12:20+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:12:26+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:12:26+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:12:31+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:12:31+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:12:37+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:12:37+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:12:42+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:12:42+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:12:47+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:12:47+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:12:53+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:12:53+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:12:58+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:12:58+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:13:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:13:03+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:13:09+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:13:09+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:13:14+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:13:14+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:13:19+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:13:19+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:13:25+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:13:25+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:13:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:13:30+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:13:35+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:13:35+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:13:41+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:13:41+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:13:46+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:13:46+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:13:52+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:13:52+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:13:57+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:13:57+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:14:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:14:02+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:14:08+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:14:08+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:14:13+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:14:13+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:14:18+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:14:18+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:14:24+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:14:24+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:21]
+[ 2020-04-29T06:14:29+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:30:10+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000101s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T06:30:10+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T06:30:10+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012995s ]
+[ 2020-04-29T06:30:10+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T06:30:10+08:00 ][ info ] [ BIND ] 'api/Jiesuan'
+[ 2020-04-29T06:30:10+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Jiesuan',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T06:30:10+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T06:30:10+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T06:30:10+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T06:30:10+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.007278s ]
+[ 2020-04-29T06:31:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:32:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:33:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:33:55+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000093s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T06:33:55+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T06:33:55+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011997s ]
+[ 2020-04-29T06:33:55+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T06:33:55+08:00 ][ info ] [ BIND ] 'api/Jiesuan'
+[ 2020-04-29T06:33:55+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Jiesuan',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T06:33:55+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T06:33:55+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T06:33:55+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T06:33:55+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006839s ]
+[ 2020-04-29T06:34:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:35:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:35:59+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000090s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T06:35:59+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T06:35:59+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012420s ]
+[ 2020-04-29T06:35:59+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T06:35:59+08:00 ][ info ] [ BIND ] 'api/Jiesuan'
+[ 2020-04-29T06:35:59+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Jiesuan',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T06:35:59+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T06:35:59+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T06:35:59+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T06:35:59+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.007056s ]
+[ 2020-04-29T06:36:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:37:32+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000098s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T06:37:32+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-04-29T06:37:32+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009931s ]
+[ 2020-04-29T06:37:32+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T06:37:32+08:00 ][ info ] [ BIND ] 'api/Jiesuan'
+[ 2020-04-29T06:37:32+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Jiesuan',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T06:37:32+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T06:37:32+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T06:37:32+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T06:37:32+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005422s ]
+[ 2020-04-29T06:38:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:39:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:40:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:41:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:42:06+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:43:06+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:44:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:45:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:46:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:47:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:48:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:49:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:50:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:51:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:52:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:53:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:54:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:57:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:58:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T06:59:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T07:00:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T07:01:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T07:02:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T07:03:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T07:06:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T07:07:02+08:00 ][ info ] [ DB ] INIT mysql

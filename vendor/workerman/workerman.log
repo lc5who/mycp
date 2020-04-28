@@ -1,0 +1,369 @@
+2020-04-28 08:14:59 pid:80359 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:15:31 pid:80432 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:15:31 pid:80444 Worker[80444] process terminated
+2020-04-28 08:15:31 pid:80443 Worker[80443] process terminated
+2020-04-28 08:15:31 pid:80442 Worker[80442] process terminated
+2020-04-28 08:15:31 pid:80445 Worker[80445] process terminated
+2020-04-28 08:18:21 pid:80979 Workerman[server.php] stop 
+2020-04-28 08:18:21 pid:80979 Workerman[server.php] is stopping ...
+2020-04-28 08:18:21 pid:80979 Workerman[server.php] stop success
+2020-04-28 08:18:28 pid:80990 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:18:28 pid:81004 Worker[81004] process terminated
+2020-04-28 08:18:28 pid:81003 Worker[81003] process terminated
+2020-04-28 08:18:28 pid:81002 Worker[81002] process terminated
+2020-04-28 08:18:28 pid:81001 Worker[81001] process terminated
+2020-04-28 08:19:16 pid:81307 Workerman[server.php] stop 
+2020-04-28 08:19:16 pid:81307 Workerman[server.php] is stopping ...
+2020-04-28 08:19:16 pid:81307 Workerman[server.php] stop success
+2020-04-28 08:20:51 pid:81505 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:21:03 pid:81505 Workerman[server.php] stopping ...
+2020-04-28 08:21:03 pid:81505 Workerman[server.php] has been stopped
+2020-04-28 08:21:16 pid:81567 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:21:20 pid:81567 Workerman[server.php] stopping ...
+2020-04-28 08:21:20 pid:81567 Workerman[server.php] has been stopped
+2020-04-28 08:26:52 pid:82194 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:30:25 pid:82194 Workerman[server.php] stopping ...
+2020-04-28 08:30:25 pid:82194 Workerman[server.php] has been stopped
+2020-04-28 08:35:20 pid:83147 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:35:26 pid:83150 Worker[83150] process terminated
+2020-04-28 08:35:26 pid:83149 Worker[83149] process terminated
+2020-04-28 08:35:26 pid:83148 Worker[83148] process terminated
+2020-04-28 08:35:26 pid:83151 Worker[83151] process terminated
+2020-04-28 08:35:31 pid:83190 Worker[83190] process terminated
+2020-04-28 08:35:31 pid:83191 Worker[83191] process terminated
+2020-04-28 08:35:31 pid:83193 Worker[83193] process terminated
+2020-04-28 08:35:31 pid:83192 Worker[83192] process terminated
+2020-04-28 08:35:32 pid:83147 Workerman[server.php] stopping ...
+2020-04-28 08:35:32 pid:83147 Workerman[server.php] has been stopped
+2020-04-28 08:35:53 pid:83270 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:36:15 pid:83270 Workerman[server.php] stopping ...
+2020-04-28 08:36:15 pid:83270 Workerman[server.php] has been stopped
+2020-04-28 08:42:22 pid:83997 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:42:36 pid:83997 Workerman[server.php] stopping ...
+2020-04-28 08:42:36 pid:83997 Workerman[server.php] has been stopped
+2020-04-28 08:51:20 pid:84997 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:51:25 pid:84998 Worker[84998] process terminated
+2020-04-28 08:51:31 pid:85016 Worker[85016] process terminated
+2020-04-28 08:51:34 pid:84997 Workerman[server.php] stopping ...
+2020-04-28 08:51:34 pid:84997 Workerman[server.php] has been stopped
+2020-04-28 08:51:45 pid:85062 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:51:50 pid:85063 Worker[85063] process terminated
+2020-04-28 08:51:52 pid:85062 Workerman[server.php] stopping ...
+2020-04-28 08:51:52 pid:85062 Workerman[server.php] has been stopped
+2020-04-28 08:52:25 pid:85151 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:52:31 pid:85152 Worker[85152] process terminated
+2020-04-28 08:52:32 pid:85151 Workerman[server.php] stopping ...
+2020-04-28 08:52:32 pid:85151 Workerman[server.php] has been stopped
+2020-04-28 08:52:50 pid:85211 Workerman[server.php] start in DEBUG mode
+2020-04-28 08:54:18 pid:85211 Workerman[server.php] stopping ...
+2020-04-28 08:54:18 pid:85211 Workerman[server.php] has been stopped
+2020-04-28 08:55:22 pid:85495 Workerman[server.php] start in DEBUG mode
+2020-04-28 09:32:35 pid:85496 Worker[85496] process terminated
+2020-04-28 09:32:40 pid:89673 Worker[89673] process terminated
+2020-04-28 09:32:46 pid:89689 Worker[89689] process terminated
+2020-04-28 09:32:51 pid:89705 Worker[89705] process terminated
+2020-04-28 10:42:37 pid:85495 Workerman[server.php] stopping ...
+2020-04-28 10:42:37 pid:85495 Workerman[server.php] has been stopped
+2020-04-28 10:43:26 pid:97853 Workerman[server.php] start in DEBUG mode
+2020-04-29 00:18:06 pid:97862 Worker[97862] process terminated
+2020-04-29 01:21:11 pid:90443 Worker[90443] process terminated
+2020-04-29 04:32:44 pid:97627 Worker[97627] process terminated
+2020-04-29 04:32:49 pid:6147 Worker[6147] process terminated
+2020-04-29 04:32:55 pid:6163 Worker[6163] process terminated
+2020-04-29 04:33:00 pid:6179 Worker[6179] process terminated
+2020-04-29 04:33:05 pid:6195 Worker[6195] process terminated
+2020-04-29 04:39:01 pid:6212 Worker[6212] process terminated
+2020-04-29 04:39:07 pid:6885 Worker[6885] process terminated
+2020-04-29 04:39:12 pid:6902 Worker[6902] process terminated
+2020-04-29 04:39:17 pid:6928 Worker[6928] process terminated
+2020-04-29 04:39:23 pid:6944 Worker[6944] process terminated
+2020-04-29 04:39:28 pid:6962 Worker[6962] process terminated
+2020-04-29 04:39:34 pid:6978 Worker[6978] process terminated
+2020-04-29 04:39:39 pid:6997 Worker[6997] process terminated
+2020-04-29 04:39:44 pid:7014 Worker[7014] process terminated
+2020-04-29 04:39:50 pid:7031 Worker[7031] process terminated
+2020-04-29 04:39:56 pid:7047 Worker[7047] process terminated
+2020-04-29 04:40:01 pid:7063 Worker[7063] process terminated
+2020-04-29 04:40:07 pid:7080 Worker[7080] process terminated
+2020-04-29 04:40:12 pid:7097 Worker[7097] process terminated
+2020-04-29 04:40:18 pid:7113 Worker[7113] process terminated
+2020-04-29 04:40:23 pid:7132 Worker[7132] process terminated
+2020-04-29 04:40:28 pid:7149 Worker[7149] process terminated
+2020-04-29 04:40:34 pid:7165 Worker[7165] process terminated
+2020-04-29 04:40:40 pid:7181 Worker[7181] process terminated
+2020-04-29 04:40:45 pid:7207 Worker[7207] process terminated
+2020-04-29 04:40:50 pid:7224 Worker[7224] process terminated
+2020-04-29 04:40:56 pid:7241 Worker[7241] process terminated
+2020-04-29 04:41:01 pid:7257 Worker[7257] process terminated
+2020-04-29 04:41:07 pid:7273 Worker[7273] process terminated
+2020-04-29 04:41:12 pid:7290 Worker[7290] process terminated
+2020-04-29 04:41:18 pid:7306 Worker[7306] process terminated
+2020-04-29 04:41:24 pid:7324 Worker[7324] process terminated
+2020-04-29 04:41:29 pid:7341 Worker[7341] process terminated
+2020-04-29 04:41:34 pid:7358 Worker[7358] process terminated
+2020-04-29 04:41:40 pid:7375 Worker[7375] process terminated
+2020-04-29 04:41:45 pid:7392 Worker[7392] process terminated
+2020-04-29 04:41:51 pid:7408 Worker[7408] process terminated
+2020-04-29 04:41:56 pid:7425 Worker[7425] process terminated
+2020-04-29 04:42:02 pid:7441 Worker[7441] process terminated
+2020-04-29 04:42:07 pid:7458 Worker[7458] process terminated
+2020-04-29 04:42:13 pid:7484 Worker[7484] process terminated
+2020-04-29 04:42:18 pid:7500 Worker[7500] process terminated
+2020-04-29 04:42:24 pid:7517 Worker[7517] process terminated
+2020-04-29 04:42:29 pid:7533 Worker[7533] process terminated
+2020-04-29 04:42:34 pid:7549 Worker[7549] process terminated
+2020-04-29 04:42:40 pid:7565 Worker[7565] process terminated
+2020-04-29 04:42:45 pid:7581 Worker[7581] process terminated
+2020-04-29 04:42:51 pid:7597 Worker[7597] process terminated
+2020-04-29 04:42:56 pid:7614 Worker[7614] process terminated
+2020-04-29 04:43:02 pid:7631 Worker[7631] process terminated
+2020-04-29 04:43:07 pid:7648 Worker[7648] process terminated
+2020-04-29 04:43:13 pid:7665 Worker[7665] process terminated
+2020-04-29 04:43:19 pid:7681 Worker[7681] process terminated
+2020-04-29 04:43:24 pid:7698 Worker[7698] process terminated
+2020-04-29 04:43:30 pid:7717 Worker[7717] process terminated
+2020-04-29 04:43:35 pid:7744 Worker[7744] process terminated
+2020-04-29 04:43:40 pid:7760 Worker[7760] process terminated
+2020-04-29 04:43:46 pid:7777 Worker[7777] process terminated
+2020-04-29 04:43:51 pid:7796 Worker[7796] process terminated
+2020-04-29 04:43:57 pid:7812 Worker[7812] process terminated
+2020-04-29 04:44:02 pid:7829 Worker[7829] process terminated
+2020-04-29 04:44:08 pid:7845 Worker[7845] process terminated
+2020-04-29 04:44:13 pid:7861 Worker[7861] process terminated
+2020-04-29 04:44:19 pid:7877 Worker[7877] process terminated
+2020-04-29 04:44:24 pid:97853 Workerman[server.php] stopping ...
+2020-04-29 04:44:24 pid:7894 Worker[7894] process terminated
+2020-04-29 04:44:24 pid:97853 Workerman[server.php] has been stopped
+2020-04-29 04:44:35 pid:7931 Workerman[server.php] start in DEBUG mode
+2020-04-29 04:44:37 pid:7932 Worker[7932] process terminated
+2020-04-29 04:44:38 pid:7949 Worker[7949] process terminated
+2020-04-29 04:44:39 pid:7956 Worker[7956] process terminated
+2020-04-29 04:44:41 pid:7963 Worker[7963] process terminated
+2020-04-29 04:44:42 pid:7970 Worker[7970] process terminated
+2020-04-29 04:44:43 pid:7987 Worker[7987] process terminated
+2020-04-29 04:44:45 pid:7994 Worker[7994] process terminated
+2020-04-29 04:44:46 pid:8001 Worker[8001] process terminated
+2020-04-29 04:44:47 pid:8008 Worker[8008] process terminated
+2020-04-29 04:44:49 pid:8027 Worker[8027] process terminated
+2020-04-29 04:44:50 pid:8034 Worker[8034] process terminated
+2020-04-29 04:44:51 pid:8041 Worker[8041] process terminated
+2020-04-29 04:44:53 pid:7931 Workerman[server.php] stopping ...
+2020-04-29 04:44:53 pid:8048 Worker[8048] process terminated
+2020-04-29 04:44:53 pid:7931 Workerman[server.php] has been stopped
+2020-04-29 04:45:44 pid:8152 Workerman[server.php] start in DEBUG mode
+2020-04-29 04:45:49 pid:8162 Worker[8162] process terminated
+2020-04-29 04:45:52 pid:8152 Workerman[server.php] stopping ...
+2020-04-29 04:45:52 pid:8152 Workerman[server.php] has been stopped
+2020-04-29 04:47:32 pid:8373 Workerman[server.php] start in DEBUG mode
+2020-04-29 04:47:42 pid:8373 Workerman[server.php] stopping ...
+2020-04-29 04:47:42 pid:8373 Workerman[server.php] has been stopped
+2020-04-29 04:49:16 pid:8752 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-29 04:49:18 pid:8752 Workerman[jiesuan.php] stopping ...
+2020-04-29 04:49:19 pid:8752 Workerman[jiesuan.php] has been stopped
+2020-04-29 04:49:44 pid:10613 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-29 04:49:48 pid:10613 Workerman[jiesuan.php] stopping ...
+2020-04-29 04:49:48 pid:10613 Workerman[jiesuan.php] has been stopped
+2020-04-29 04:50:00 pid:10646 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-29 04:56:13 pid:10646 Workerman[jiesuan.php] stopping ...
+2020-04-29 04:56:13 pid:10646 Workerman[jiesuan.php] has been stopped
+2020-04-29 04:56:15 pid:11439 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-29 05:09:00 pid:12961 Workerman[server.php] start in DEBUG mode
+2020-04-29 05:10:09 pid:11439 Workerman[jiesuan.php] stopping ...
+2020-04-29 05:10:09 pid:11439 Workerman[jiesuan.php] has been stopped
+2020-04-29 05:10:28 pid:13136 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-29 05:11:39 pid:12961 Workerman[server.php] stopping ...
+2020-04-29 05:11:39 pid:12961 Workerman[server.php] has been stopped
+2020-04-29 05:11:51 pid:13387 Workerman[server.php] start in DEBUG mode
+2020-04-29 05:12:52 pid:13136 Workerman[jiesuan.php] stopping ...
+2020-04-29 05:12:52 pid:13136 Workerman[jiesuan.php] has been stopped
+2020-04-29 05:15:12 pid:13758 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-29 05:17:53 pid:13758 Workerman[jiesuan.php] stopping ...
+2020-04-29 05:17:53 pid:13758 Workerman[jiesuan.php] has been stopped
+2020-04-29 05:20:08 pid:14413 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-29 05:20:14 pid:13387 Workerman[server.php] stopping ...
+2020-04-29 05:20:14 pid:13387 Workerman[server.php] has been stopped
+2020-04-29 05:20:16 pid:14535 Workerman[server.php] start in DEBUG mode
+2020-04-29 05:21:18 pid:14413 Workerman[jiesuan.php] stopping ...
+2020-04-29 05:21:18 pid:14413 Workerman[jiesuan.php] has been stopped
+2020-04-29 05:51:59 pid:14536 Worker[14536] process terminated
+2020-04-29 05:52:04 pid:18107 Worker[18107] process terminated
+2020-04-29 05:52:09 pid:18123 Worker[18123] process terminated
+2020-04-29 05:52:15 pid:18140 Worker[18140] process terminated
+2020-04-29 05:52:25 pid:18157 Worker[18157] process terminated
+2020-04-29 05:52:31 pid:18183 Worker[18183] process terminated
+2020-04-29 05:53:51 pid:18200 Worker[18200] process terminated
+2020-04-29 05:53:57 pid:18350 Worker[18350] process terminated
+2020-04-29 05:54:02 pid:18366 Worker[18366] process terminated
+2020-04-29 05:54:07 pid:18382 Worker[18382] process terminated
+2020-04-29 05:54:13 pid:18399 Worker[18399] process terminated
+2020-04-29 05:54:18 pid:18426 Worker[18426] process terminated
+2020-04-29 05:54:23 pid:18442 Worker[18442] process terminated
+2020-04-29 05:54:29 pid:18459 Worker[18459] process terminated
+2020-04-29 05:54:34 pid:18475 Worker[18475] process terminated
+2020-04-29 05:54:39 pid:18492 Worker[18492] process terminated
+2020-04-29 05:54:45 pid:18508 Worker[18508] process terminated
+2020-04-29 05:54:50 pid:18524 Worker[18524] process terminated
+2020-04-29 05:54:56 pid:18541 Worker[18541] process terminated
+2020-04-29 05:55:01 pid:18557 Worker[18557] process terminated
+2020-04-29 05:55:06 pid:18573 Worker[18573] process terminated
+2020-04-29 05:55:12 pid:18590 Worker[18590] process terminated
+2020-04-29 05:55:17 pid:18606 Worker[18606] process terminated
+2020-04-29 05:55:22 pid:18622 Worker[18622] process terminated
+2020-04-29 05:55:28 pid:18638 Worker[18638] process terminated
+2020-04-29 05:55:33 pid:18654 Worker[18654] process terminated
+2020-04-29 05:55:39 pid:18671 Worker[18671] process terminated
+2020-04-29 05:55:44 pid:18687 Worker[18687] process terminated
+2020-04-29 05:55:49 pid:18704 Worker[18704] process terminated
+2020-04-29 05:55:55 pid:18720 Worker[18720] process terminated
+2020-04-29 05:56:00 pid:18737 Worker[18737] process terminated
+2020-04-29 05:56:05 pid:18754 Worker[18754] process terminated
+2020-04-29 05:56:11 pid:18771 Worker[18771] process terminated
+2020-04-29 05:56:16 pid:18787 Worker[18787] process terminated
+2020-04-29 05:56:21 pid:18810 Worker[18810] process terminated
+2020-04-29 05:56:27 pid:18831 Worker[18831] process terminated
+2020-04-29 05:56:32 pid:18847 Worker[18847] process terminated
+2020-04-29 05:56:37 pid:18863 Worker[18863] process terminated
+2020-04-29 05:56:43 pid:18880 Worker[18880] process terminated
+2020-04-29 05:56:48 pid:18896 Worker[18896] process terminated
+2020-04-29 05:56:53 pid:18912 Worker[18912] process terminated
+2020-04-29 05:56:59 pid:18928 Worker[18928] process terminated
+2020-04-29 05:57:04 pid:18944 Worker[18944] process terminated
+2020-04-29 05:57:09 pid:18961 Worker[18961] process terminated
+2020-04-29 05:57:15 pid:18977 Worker[18977] process terminated
+2020-04-29 05:57:20 pid:18993 Worker[18993] process terminated
+2020-04-29 05:57:26 pid:19009 Worker[19009] process terminated
+2020-04-29 05:57:31 pid:19026 Worker[19026] process terminated
+2020-04-29 05:57:36 pid:19042 Worker[19042] process terminated
+2020-04-29 05:57:42 pid:19058 Worker[19058] process terminated
+2020-04-29 05:57:47 pid:19076 Worker[19076] process terminated
+2020-04-29 05:57:52 pid:19093 Worker[19093] process terminated
+2020-04-29 05:57:58 pid:19109 Worker[19109] process terminated
+2020-04-29 05:58:03 pid:19126 Worker[19126] process terminated
+2020-04-29 05:58:08 pid:19143 Worker[19143] process terminated
+2020-04-29 05:58:14 pid:19159 Worker[19159] process terminated
+2020-04-29 05:58:19 pid:19177 Worker[19177] process terminated
+2020-04-29 05:58:24 pid:19193 Worker[19193] process terminated
+2020-04-29 05:58:30 pid:19209 Worker[19209] process terminated
+2020-04-29 05:58:35 pid:19236 Worker[19236] process terminated
+2020-04-29 05:58:40 pid:19254 Worker[19254] process terminated
+2020-04-29 05:58:46 pid:19271 Worker[19271] process terminated
+2020-04-29 05:58:51 pid:19287 Worker[19287] process terminated
+2020-04-29 05:58:56 pid:19304 Worker[19304] process terminated
+2020-04-29 05:59:02 pid:19321 Worker[19321] process terminated
+2020-04-29 05:59:07 pid:19337 Worker[19337] process terminated
+2020-04-29 05:59:12 pid:19353 Worker[19353] process terminated
+2020-04-29 05:59:18 pid:19369 Worker[19369] process terminated
+2020-04-29 05:59:23 pid:19385 Worker[19385] process terminated
+2020-04-29 05:59:28 pid:19401 Worker[19401] process terminated
+2020-04-29 05:59:34 pid:19417 Worker[19417] process terminated
+2020-04-29 05:59:39 pid:19434 Worker[19434] process terminated
+2020-04-29 05:59:44 pid:19451 Worker[19451] process terminated
+2020-04-29 05:59:50 pid:19467 Worker[19467] process terminated
+2020-04-29 05:59:55 pid:19483 Worker[19483] process terminated
+2020-04-29 06:00:00 pid:19500 Worker[19500] process terminated
+2020-04-29 06:00:06 pid:19516 Worker[19516] process terminated
+2020-04-29 06:00:11 pid:19533 Worker[19533] process terminated
+2020-04-29 06:00:16 pid:19550 Worker[19550] process terminated
+2020-04-29 06:00:22 pid:19566 Worker[19566] process terminated
+2020-04-29 06:00:27 pid:19583 Worker[19583] process terminated
+2020-04-29 06:00:33 pid:19599 Worker[19599] process terminated
+2020-04-29 06:00:38 pid:19616 Worker[19616] process terminated
+2020-04-29 06:00:43 pid:19632 Worker[19632] process terminated
+2020-04-29 06:00:49 pid:19649 Worker[19649] process terminated
+2020-04-29 06:00:54 pid:19677 Worker[19677] process terminated
+2020-04-29 06:01:00 pid:19693 Worker[19693] process terminated
+2020-04-29 06:01:05 pid:19710 Worker[19710] process terminated
+2020-04-29 06:01:10 pid:19740 Worker[19740] process terminated
+2020-04-29 06:11:21 pid:19756 Worker[19756] process terminated
+2020-04-29 06:11:27 pid:20897 Worker[20897] process terminated
+2020-04-29 06:11:32 pid:20913 Worker[20913] process terminated
+2020-04-29 06:11:37 pid:20929 Worker[20929] process terminated
+2020-04-29 06:11:43 pid:20946 Worker[20946] process terminated
+2020-04-29 06:11:48 pid:20972 Worker[20972] process terminated
+2020-04-29 06:11:54 pid:20989 Worker[20989] process terminated
+2020-04-29 06:11:59 pid:21005 Worker[21005] process terminated
+2020-04-29 06:12:04 pid:21021 Worker[21021] process terminated
+2020-04-29 06:12:10 pid:21037 Worker[21037] process terminated
+2020-04-29 06:12:15 pid:21053 Worker[21053] process terminated
+2020-04-29 06:12:20 pid:21070 Worker[21070] process terminated
+2020-04-29 06:12:26 pid:21087 Worker[21087] process terminated
+2020-04-29 06:12:31 pid:21104 Worker[21104] process terminated
+2020-04-29 06:12:37 pid:21120 Worker[21120] process terminated
+2020-04-29 06:12:42 pid:21136 Worker[21136] process terminated
+2020-04-29 06:12:47 pid:21153 Worker[21153] process terminated
+2020-04-29 06:12:53 pid:21172 Worker[21172] process terminated
+2020-04-29 06:12:58 pid:21189 Worker[21189] process terminated
+2020-04-29 06:13:03 pid:21205 Worker[21205] process terminated
+2020-04-29 06:13:09 pid:21221 Worker[21221] process terminated
+2020-04-29 06:13:14 pid:21238 Worker[21238] process terminated
+2020-04-29 06:13:19 pid:21255 Worker[21255] process terminated
+2020-04-29 06:13:25 pid:21271 Worker[21271] process terminated
+2020-04-29 06:13:30 pid:21287 Worker[21287] process terminated
+2020-04-29 06:13:36 pid:21303 Worker[21303] process terminated
+2020-04-29 06:13:41 pid:21320 Worker[21320] process terminated
+2020-04-29 06:13:46 pid:21336 Worker[21336] process terminated
+2020-04-29 06:13:52 pid:21363 Worker[21363] process terminated
+2020-04-29 06:13:57 pid:21380 Worker[21380] process terminated
+2020-04-29 06:14:02 pid:21397 Worker[21397] process terminated
+2020-04-29 06:14:08 pid:21413 Worker[21413] process terminated
+2020-04-29 06:14:13 pid:21431 Worker[21431] process terminated
+2020-04-29 06:14:18 pid:21448 Worker[21448] process terminated
+2020-04-29 06:14:24 pid:21465 Worker[21465] process terminated
+2020-04-29 06:30:10 pid:23246 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-29 06:33:05 pid:23337 think\exception\PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '1588113185' for column `sql_0356168_cn`.`c_bet`.`endtime` at row 1 in /www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453
+Stack trace:
+#0 /www/wwwroot/mycp.com/thinkphp/library/think/db/Query.php(269): think\db\Connection->execute('UPDATE `c_bet` ...', Array, Object(think\db\Query))
+#1 /www/wwwroot/mycp.com/thinkphp/library/think/db/Query.php(2437): think\db\Query->execute('UPDATE `c_bet` ...', Array, Object(think\db\Query))
+#2 /www/wwwroot/mycp.com/application/api/controller/Jiesuan.php(51): think\db\Query->update(Array)
+#3 /www/wwwroot/mycp.com/vendor/workerman/workerman/Connection/TcpConnection.php(656): app\api\controller\Jiesuan->onMessage(Object(Workerman\Connection\TcpConnection), Array)
+#4 /www/wwwroot/mycp.com/vendor/workerman/workerman/Events/Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #144)
+#5 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(2408): Workerman\Events\Select->loop()
+#6 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(1541): Workerman\Worker->run()
+#7 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(1371): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(1345): Workerman\Worker::forkWorkersForLinux()
+#9 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(546): Workerman\Worker::forkWorkers()
+#10 /www/wwwroot/mycp.com/vendor/topthink/think-worker/src/Server.php(48): Workerman\Worker::runAll()
+#11 [internal function]: think\worker\Server->__construct()
+#12 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#13 /www/wwwroot/mycp.com/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\api\\control...')
+#14 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(580): think\Loader::controller('jiesuan', 'controller', false, 'Error')
+#15 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#16 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#17 /www/wwwroot/mycp.com/thinkphp/start.php(19): think\App::run()
+#18 /www/wwwroot/mycp.com/jiesuan.php(6): require('/www/wwwroot/my...')
+#19 {main}
+2020-04-29 06:33:05 pid:23337 Worker[23337] process terminated
+2020-04-29 06:33:05 pid:23246 worker[none:23337] exit with status 64000
+2020-04-29 06:33:53 pid:23246 Workerman[jiesuan.php] stopping ...
+2020-04-29 06:33:53 pid:23246 Workerman[jiesuan.php] has been stopped
+2020-04-29 06:33:55 pid:23780 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-29 06:35:05 pid:23781 think\exception\PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'win' cannot be null in /www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453
+Stack trace:
+#0 /www/wwwroot/mycp.com/thinkphp/library/think/db/Query.php(269): think\db\Connection->execute('UPDATE `c_bet` ...', Array, Object(think\db\Query))
+#1 /www/wwwroot/mycp.com/thinkphp/library/think/db/Query.php(2437): think\db\Query->execute('UPDATE `c_bet` ...', Array, Object(think\db\Query))
+#2 /www/wwwroot/mycp.com/application/api/controller/Jiesuan.php(51): think\db\Query->update(Array)
+#3 /www/wwwroot/mycp.com/vendor/workerman/workerman/Connection/TcpConnection.php(656): app\api\controller\Jiesuan->onMessage(Object(Workerman\Connection\TcpConnection), Array)
+#4 /www/wwwroot/mycp.com/vendor/workerman/workerman/Events/Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #144)
+#5 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(2408): Workerman\Events\Select->loop()
+#6 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(1541): Workerman\Worker->run()
+#7 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(1371): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(1345): Workerman\Worker::forkWorkersForLinux()
+#9 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(546): Workerman\Worker::forkWorkers()
+#10 /www/wwwroot/mycp.com/vendor/topthink/think-worker/src/Server.php(48): Workerman\Worker::runAll()
+#11 [internal function]: think\worker\Server->__construct()
+#12 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#13 /www/wwwroot/mycp.com/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\api\\control...')
+#14 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(580): think\Loader::controller('jiesuan', 'controller', false, 'Error')
+#15 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#16 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#17 /www/wwwroot/mycp.com/thinkphp/start.php(19): think\App::run()
+#18 /www/wwwroot/mycp.com/jiesuan.php(6): require('/www/wwwroot/my...')
+#19 {main}
+2020-04-29 06:35:05 pid:23781 Worker[23781] process terminated
+2020-04-29 06:35:05 pid:23780 worker[none:23781] exit with status 64000
+2020-04-29 06:35:57 pid:23780 Workerman[jiesuan.php] stopping ...
+2020-04-29 06:35:57 pid:23780 Workerman[jiesuan.php] has been stopped
+2020-04-29 06:35:59 pid:24111 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-29 06:36:53 pid:24111 Workerman[jiesuan.php] stopping ...
+2020-04-29 06:36:53 pid:24111 Workerman[jiesuan.php] has been stopped
+2020-04-29 06:37:32 pid:24388 Workerman[jiesuan.php] start in DEBUG mode
