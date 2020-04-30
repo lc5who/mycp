@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: LazyQ
- * Date: 2020-04-29
- * Time: 18:58
- */
+
 
 return [
     '21'=>[

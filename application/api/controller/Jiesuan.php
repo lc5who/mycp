@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: LazyQ
- * Date: 2020-04-28
- * Time: 08:14
- */
+
 
 namespace app\api\controller;
 
@@ -31,7 +26,7 @@ class Jiesuan extends Server
     {
         $task_data = json_decode($task_data, true);
         $csk=$task_data['csk'];
-        if( $task_data['number']){
+        if($task_data['number']){
 
             $betlist=Db::name('bet')->where('csk',$csk)->where('status','0')
                 ->where('qishu',$task_data['no'])
@@ -58,7 +53,7 @@ class Jiesuan extends Server
 
 
             }catch (Exception $e){
-
+                echo $e->getMessage();
             }
 
         }

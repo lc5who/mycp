@@ -259,3 +259,237 @@
 [ 2020-04-30T12:20:03+08:00 ][ info ] [ DB ] INIT mysql
 [ 2020-04-30T12:20:39+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:28]
 [ 2020-04-30T12:20:44+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T12:36:24+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:28]
+[ 2020-04-30T12:36:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T13:19:13+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:28]
+[ 2020-04-30T13:19:18+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T13:19:18+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:33]
+[ 2020-04-30T13:19:23+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T13:28:34+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:33]
+[ 2020-04-30T13:28:39+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:32:25+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000094s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-30T14:32:25+08:00 ][ info ] [ CACHE ] INIT file
+[ 2020-04-30T14:32:25+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013202s ]
+[ 2020-04-30T14:32:25+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-30T14:32:25+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-30T14:32:25+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-30T14:32:25+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-30T14:32:25+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-30T14:32:25+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-30T14:32:25+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.007239s ]
+[ 2020-04-30T14:32:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:36:56+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:37:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:37:01+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:37:06+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:37:06+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:37:12+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:37:12+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:37:17+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:37:17+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:37:22+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:37:22+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:37:28+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:37:28+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:37:33+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:37:33+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:37:39+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:37:39+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:37:45+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:37:45+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:37:50+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:37:50+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:37:55+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:37:55+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:38:00+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:38:01+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:38:06+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:38:06+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:38:11+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:40:41+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:40:47+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:40:47+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:40:52+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:40:52+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:40:58+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:40:58+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:41:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:41:03+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:41:09+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:41:09+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:41:14+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:41:14+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:41:19+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:41:19+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:41:25+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:41:25+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:41:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:41:30+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:41:35+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:41:35+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:41:41+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:41:41+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:41:46+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:41:46+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:41:52+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:42:02+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:42:07+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:42:07+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:42:13+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:42:13+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:42:18+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:42:18+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:42:23+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:42:23+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:42:29+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:42:29+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:42:34+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:42:34+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:42:39+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:42:40+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:42:45+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:42:50+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:42:55+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:42:55+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:43:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:50:32+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:50:37+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:50:37+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:50:43+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:50:43+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:50:48+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:50:48+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:50:53+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:50:53+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:50:59+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:50:59+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:51:04+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:51:04+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:51:09+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:51:09+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:51:15+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:51:15+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:51:20+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:51:20+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:51:25+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:51:25+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:51:31+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:51:31+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:51:36+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:51:36+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:51:41+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:51:41+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:51:47+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:51:47+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:51:52+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:51:52+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:51:57+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:51:57+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:52:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:52:03+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:52:08+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:52:08+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:52:14+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:52:14+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:52:19+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:52:19+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:52:24+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:52:24+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:52:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:52:30+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:52:35+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:54:10+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:54:16+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:54:16+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:54:21+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:54:21+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:54:26+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:54:26+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:54:31+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:54:31+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:54:37+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:54:37+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:54:42+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:54:42+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:54:47+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:54:47+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:54:53+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:54:53+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:54:58+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:54:58+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:55:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:55:03+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:55:08+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:55:08+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:55:14+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:55:14+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:55:19+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:55:19+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:55:25+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:55:25+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:55:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:55:30+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:55:35+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:55:35+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:55:41+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T14:55:41+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T14:55:46+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:17:08+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:17:14+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:17:14+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:17:19+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:17:19+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:17:25+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:17:25+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:17:31+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:17:31+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:17:36+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:17:36+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:17:42+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:18:54+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:18:59+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:18:59+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:19:04+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:26:35+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:26:40+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:26:40+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:26:46+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:28:43+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:28:48+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:28:48+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:28:54+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:28:54+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:29:00+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:29:00+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:29:06+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:29:06+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:29:11+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:29:12+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:29:17+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:31:32+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:31:37+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T18:44:44+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T18:44:49+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T19:13:41+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T19:13:47+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T19:47:24+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T19:47:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T19:47:30+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T19:47:35+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T19:47:35+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T19:47:41+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T19:47:41+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T19:47:46+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-30T19:47:46+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:32]
+[ 2020-04-30T19:47:52+08:00 ][ info ] [ DB ] INIT mysql

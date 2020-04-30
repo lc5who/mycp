@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: LazyQ
- * Date: 2020-04-29
- * Time: 03:25
- */
+
 return [
     'wz'=>[
         '0'=>'第一球',

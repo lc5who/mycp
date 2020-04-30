@@ -126,26 +126,40 @@ class User extends Base
                     return writeJson('-1','用户余额不足');
                 }
 
-                foreach ($bets as $k =>$v){
+
                     $insertData[]=[
                         'did'=>$this->orderSn(),
                         'uid'=>$this->user['id'],
                         'username'=>$this->user['bind_phone'],
-//                    'username'=>$this->user['bind_phone'],
+
                         'type'=>$lotter['name'],
                         'qishu'=>$curNo['qishu'],
-                        'wanfa'=>$obj['game'],
-                        'zhudan'=>$obj['contents'],
+                        'wanfa'=>$bets[0]['game'],
+                        'zhudan'=>$bets[0]['contents'],
                         'odds'=>$peilv[$obj['game']],
-                        'money'=>$obj['amount'],
+                        'money'=>$bets[0]['amount'],
                         'win'=>'0',
                         'js'=>'0',
-//                        'addtime'=>time(),
                         'csk'=>$csk,
 
                     ];
-                }
-//                dump($insertData);die;
+
+//                $insertData[]=[
+//                    'did'=>$this->orderSn(),
+//                    'uid'=>$this->user['id'],
+//                    'username'=>$this->user['bind_phone'],
+//
+//                    'type'=>$lotter['name'],
+//                    'qishu'=>$curNo['qishu'],
+//                    'wanfa'=>$obj['game'],
+//                    'zhudan'=>json_encode($bets),
+//                    'odds'=>$peilv[$obj['game']],
+//                    'money'=>$obj['amount'],
+//                    'win'=>'0',
+//                    'js'=>'0',
+//                    'csk'=>$csk,
+//
+//                ];
                 $res=Db::name('bet')->insertAll($insertData);
                 if(true){
                     return writeJson('0','下注成功');

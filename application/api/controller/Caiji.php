@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: LazyQ
- * Date: 2020-04-28
- * Time: 08:43
- */
+
 
 namespace app\api\controller;
 
@@ -17,9 +12,13 @@ class Caiji
     public function index()
     {
         $apiurl=[
-            '21'=>'http://mycp.com/api/oplottery/jsssc',
+            '3'=>'http://mycp.com/api/oplottery/yfklsf',
             '17'=>'http://mycp.com/api/oplottery/jssc',
             '20'=>'http://mycp.com/api/oplottery/yflhc',
+            '21'=>'http://mycp.com/api/oplottery/jsssc',
+            '32'=>'http://mycp.com/api/oplottery/yfks',
+            '35'=>'http://mycp.com/api/oplottery/yfsyxw',
+
         ];
 
         foreach ($apiurl as $k=>$v){
