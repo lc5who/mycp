@@ -1158,3 +1158,162 @@
 [ 2020-04-29T08:52:04+08:00 ][ info ] [ DB ] INIT mysql
 [ 2020-04-29T08:58:11+08:00 ][ info ] [ DB ] INIT mysql
 [ 2020-04-29T09:03:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T09:22:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T09:23:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T09:24:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T09:28:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T09:34:04+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T09:39:04+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T09:46:04+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T09:51:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T10:01:01+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T10:10:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T10:19:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T10:32:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T10:37:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T10:38:04+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T13:52:36+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001401s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T13:52:36+08:00 ][ info ] [ CACHE ] INIT file
+[ 2020-04-29T13:52:36+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009645s ]
+[ 2020-04-29T13:52:36+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T13:53:23+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000083s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T13:53:23+08:00 ][ info ] [ CACHE ] INIT file
+[ 2020-04-29T13:53:23+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011151s ]
+[ 2020-04-29T13:53:24+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T15:39:08+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000081s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T15:39:08+08:00 ][ info ] [ CACHE ] INIT file
+[ 2020-04-29T15:39:08+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010872s ]
+[ 2020-04-29T15:39:08+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T15:39:08+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T15:39:08+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T15:39:08+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T15:39:08+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T15:39:08+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T15:39:08+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006099s ]
+[ 2020-04-29T15:39:14+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T15:39:14+08:00 ][ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20200429-626' for key 'qishu'[/www/wwwroot/mycp.com/thinkphp/library/think/db/Connection.php:453]
+[ 2020-04-29T15:41:18+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000110s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T15:41:18+08:00 ][ info ] [ CACHE ] INIT file
+[ 2020-04-29T15:41:18+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010399s ]
+[ 2020-04-29T15:41:18+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T15:41:18+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T15:41:18+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T15:41:18+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T15:41:18+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T15:41:18+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T15:41:18+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005936s ]
+[ 2020-04-29T15:41:24+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T15:56:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000081s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T15:56:50+08:00 ][ info ] [ CACHE ] INIT file
+[ 2020-04-29T15:56:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013543s ]
+[ 2020-04-29T15:56:50+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T15:56:50+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T15:56:50+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T15:56:50+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T15:56:50+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T15:56:50+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T15:56:50+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006331s ]
+[ 2020-04-29T15:56:56+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T15:58:58+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000076s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T15:58:58+08:00 ][ info ] [ CACHE ] INIT file
+[ 2020-04-29T15:58:58+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010898s ]
+[ 2020-04-29T15:58:58+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T15:58:58+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T15:58:58+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T15:58:58+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T15:58:58+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T15:58:58+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T15:58:58+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006074s ]
+[ 2020-04-29T15:59:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T17:00:24+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000079s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T17:00:24+08:00 ][ info ] [ CACHE ] INIT file
+[ 2020-04-29T17:00:24+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012752s ]
+[ 2020-04-29T17:00:24+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T17:00:24+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T17:00:24+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T17:00:24+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T17:00:24+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T17:00:24+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T17:00:24+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006193s ]
+[ 2020-04-29T17:00:29+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T17:00:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000078s ]
+[ info ] [ LOG ] INIT File
+[ 2020-04-29T17:00:50+08:00 ][ info ] [ CACHE ] INIT file
+[ 2020-04-29T17:00:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011499s ]
+[ 2020-04-29T17:00:50+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ 2020-04-29T17:00:50+08:00 ][ info ] [ BIND ] 'api/Worker'
+[ 2020-04-29T17:00:50+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ 2020-04-29T17:00:50+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2020-04-29T17:00:50+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2020-04-29T17:00:50+08:00 ][ info ] [ LANG ] /www/wwwroot/mycp.com/application/api/lang/zh-cn.php
+[ 2020-04-29T17:00:51+08:00 ][ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006265s ]
+[ 2020-04-29T17:00:56+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-04-29T17:13:01+08:00 ][ error ] [8]Undefined index: no[/www/wwwroot/mycp.com/application/api/controller/Caiji.php:28]
+[ 2020-04-29T17:13:07+08:00 ][ info ] [ DB ] INIT mysql

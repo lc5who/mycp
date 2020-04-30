@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:80:"/www/wwwroot/mycp.com/public/../application/admin/view/lottery/orders/index.html";i:1588104114;s:64:"/www/wwwroot/mycp.com/application/admin/view/layout/default.html";i:1583049508;s:61:"/www/wwwroot/mycp.com/application/admin/view/common/meta.html";i:1583049508;s:63:"/www/wwwroot/mycp.com/application/admin/view/common/script.html";i:1583049508;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:80:"/www/wwwroot/mycp.com/public/../application/admin/view/lottery/orders/index.html";i:1588139604;s:64:"/www/wwwroot/mycp.com/application/admin/view/layout/default.html";i:1583049508;s:61:"/www/wwwroot/mycp.com/application/admin/view/common/meta.html";i:1583049508;s:63:"/www/wwwroot/mycp.com/application/admin/view/common/script.html";i:1583049508;}*/ ?>
 <!DOCTYPE html>
 <html lang="<?php echo $config['language']; ?>">
     <head>

@@ -21,11 +21,8 @@ class Worker extends Server
             require_once dirname(__FILE__).'/Caiji.php';
             $Api = new Caiji();
             $Api->index();
-
-            file_put_contents('test.txt', time() . PHP_EOL);
-
-
         });
+
 
     }
 

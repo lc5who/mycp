@@ -367,3 +367,75 @@ Stack trace:
 2020-04-29 06:36:53 pid:24111 Workerman[jiesuan.php] stopping ...
 2020-04-29 06:36:53 pid:24111 Workerman[jiesuan.php] has been stopped
 2020-04-29 06:37:32 pid:24388 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-29 15:39:08 pid:39658 Workerman[server.php] start in DEBUG mode
+2020-04-29 15:39:14 pid:39669 Worker[39669] process terminated
+2020-04-29 15:39:17 pid:39658 Workerman[server.php] stopping ...
+2020-04-29 15:39:17 pid:39658 Workerman[server.php] has been stopped
+2020-04-29 15:41:18 pid:39916 Workerman[server.php] start in DEBUG mode
+2020-04-29 15:41:37 pid:39916 Workerman[server.php] stopping ...
+2020-04-29 15:41:37 pid:39916 Workerman[server.php] has been stopped
+2020-04-29 15:56:50 pid:41656 Workerman[server.php] start in DEBUG mode
+2020-04-29 15:58:11 pid:41656 Workerman[server.php] stopping ...
+2020-04-29 15:58:11 pid:41656 Workerman[server.php] has been stopped
+2020-04-29 15:58:58 pid:41900 Workerman[server.php] start in DEBUG mode
+2020-04-29 17:00:17 pid:41900 Workerman[server.php] stopping ...
+2020-04-29 17:00:17 pid:41900 Workerman[server.php] has been stopped
+2020-04-29 17:00:24 pid:48843 Workerman[server.php] start in DEBUG mode
+2020-04-29 17:00:35 pid:48843 Workerman[server.php] stopping ...
+2020-04-29 17:00:35 pid:48843 Workerman[server.php] has been stopped
+2020-04-29 17:00:51 pid:48893 Workerman[server.php] start in DEBUG mode
+2020-04-29 17:13:01 pid:48894 Worker[48894] process terminated
+2020-04-29 18:31:17 pid:48893 Workerman[server.php] stopping ...
+2020-04-29 18:31:17 pid:48893 Workerman[server.php] has been stopped
+2020-04-30 11:18:15 pid:13571 Workerman[server.php] start in DEBUG mode
+2020-04-30 11:18:34 pid:13784 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-30 11:21:23 pid:13784 Workerman[jiesuan.php] stopping ...
+2020-04-30 11:21:24 pid:13784 Workerman[jiesuan.php] has been stopped
+2020-04-30 11:22:03 pid:13571 Workerman[server.php] stopping ...
+2020-04-30 11:22:03 pid:13571 Workerman[server.php] has been stopped
+2020-04-30 11:24:31 pid:14576 Workerman[server.php] start in DEBUG mode
+2020-04-30 11:24:35 pid:14581 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-30 11:25:11 pid:14576 Workerman[server.php] stopping ...
+2020-04-30 11:25:12 pid:14576 Workerman[server.php] has been stopped
+2020-04-30 11:25:54 pid:14748 Workerman[server.php] start in DEBUG mode
+2020-04-30 11:26:08 pid:14748 Workerman[server.php] stopping ...
+2020-04-30 11:26:08 pid:14748 Workerman[server.php] has been stopped
+2020-04-30 11:26:22 pid:14802 Workerman[server.php] start in DEBUG mode
+2020-04-30 11:27:15 pid:14802 Workerman[server.php] stopping ...
+2020-04-30 11:27:15 pid:14802 Workerman[server.php] has been stopped
+2020-04-30 11:28:24 pid:14581 Workerman[jiesuan.php] stopping ...
+2020-04-30 11:28:24 pid:14581 Workerman[jiesuan.php] has been stopped
+2020-04-30 11:28:28 pid:15051 Workerman[server.php] start in DEBUG mode
+2020-04-30 11:28:35 pid:15051 Workerman[server.php] stopping ...
+2020-04-30 11:28:35 pid:15051 Workerman[server.php] has been stopped
+2020-04-30 11:28:45 pid:15083 Workerman[server.php] start in DEBUG mode
+2020-04-30 11:28:47 pid:15095 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-30 11:30:06 pid:15101 think\exception\ErrorException: Undefined offset: 1 in /www/wwwroot/mycp.com/application/api/common.php:25
+Stack trace:
+#0 /www/wwwroot/mycp.com/application/api/common.php(25): think\Error::appError(8, 'Undefined offse...', '/www/wwwroot/my...', 25, Array)
+#1 /www/wwwroot/mycp.com/application/api/common.php(4): yifenssckj('yivwu', 'long', 1.99, '1.00', '7,2,4,7,4')
+#2 /www/wwwroot/mycp.com/application/api/controller/Jiesuan.php(42): kaijiang('21', 'yivwu', 'long', 1.99, '1.00', '7,2,4,7,4')
+#3 /www/wwwroot/mycp.com/vendor/workerman/workerman/Connection/TcpConnection.php(656): app\api\controller\Jiesuan->onMessage(Object(Workerman\Connection\TcpConnection), Array)
+#4 /www/wwwroot/mycp.com/vendor/workerman/workerman/Events/Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #146)
+#5 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(2408): Workerman\Events\Select->loop()
+#6 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(1541): Workerman\Worker->run()
+#7 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(1371): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(1345): Workerman\Worker::forkWorkersForLinux()
+#9 /www/wwwroot/mycp.com/vendor/workerman/workerman/Worker.php(546): Workerman\Worker::forkWorkers()
+#10 /www/wwwroot/mycp.com/vendor/topthink/think-worker/src/Server.php(48): Workerman\Worker::runAll()
+#11 [internal function]: think\worker\Server->__construct()
+#12 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(359): ReflectionClass->newInstanceArgs(Array)
+#13 /www/wwwroot/mycp.com/thinkphp/library/think/Loader.php(479): think\App::invokeClass('app\\api\\control...')
+#14 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(580): think\Loader::controller('jiesuan', 'controller', false, 'Error')
+#15 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(456): think\App::module(Array, Array, true)
+#16 /www/wwwroot/mycp.com/thinkphp/library/think/App.php(139): think\App::exec(Array, Array)
+#17 /www/wwwroot/mycp.com/thinkphp/start.php(19): think\App::run()
+#18 /www/wwwroot/mycp.com/jiesuan.php(6): require('/www/wwwroot/my...')
+#19 {main}
+2020-04-30 11:30:06 pid:15101 Worker[15101] process terminated
+2020-04-30 11:30:06 pid:15095 worker[none:15101] exit with status 64000
+2020-04-30 11:30:58 pid:15095 Workerman[jiesuan.php] stopping ...
+2020-04-30 11:30:58 pid:15095 Workerman[jiesuan.php] has been stopped
+2020-04-30 11:32:00 pid:15463 Workerman[jiesuan.php] start in DEBUG mode
+2020-04-30 12:19:58 pid:15084 Worker[15084] process terminated
+2020-04-30 12:20:39 pid:20866 Worker[20866] process terminated

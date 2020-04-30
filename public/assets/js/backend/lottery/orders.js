@@ -28,10 +28,11 @@ define(['jquery', 'bootstrap', 'backend', 'table', 'form'], function ($, undefin
                         {field: 'did', title: __('Did')},
                         {field: 'uid', title: __('Uid')},
                         {field: 'username', title: __('Username')},
+                        {field: 'csk', title: __('Csk')},
                         {field: 'type', title: __('Type')},
                         {field: 'qishu', title: __('Qishu')},
-                        {field: 'mingxi_1', title: __('Mingxi_1')},
-                        {field: 'mingxi_2', title: __('Mingxi_2')},
+                        {field: 'wanfa', title: __('Wanfa')},
+                        {field: 'zhudan', title: __('Zhudan')},
                         {field: 'odds', title: __('Odds'), operate:'BETWEEN'},
                         {field: 'money', title: __('Money')},
                         {field: 'win', title: __('Win'), operate:'BETWEEN'},
@@ -39,7 +40,7 @@ define(['jquery', 'bootstrap', 'backend', 'table', 'form'], function ($, undefin
                         {field: 'result', title: __('Result')},
                         // {field: 'jkzt', title: __('Jkzt')},
                         {field: 'addtime', title: __('Addtime'), operate:'RANGE', addclass:'datetimerange', formatter: Table.api.formatter.datetime},
-                        {field: 'csk', title: __('Csk')},
+
                         {field: 'fandian', title: __('Fandian'), operate:'BETWEEN'},
                         {field: 'endtime', title: __('Endtime'), operate:'RANGE', addclass:'datetimerange', formatter: Table.api.formatter.datetime},
                         {field: 'operate', title: __('Operate'), table: table, events: Table.api.events.operate, formatter: Table.api.formatter.operate}

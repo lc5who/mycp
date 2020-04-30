@@ -21,7 +21,34 @@ class Oplottery extends Base
             $opencode=$this->randKeys();
         }
 
-        return $this->opdata('21',$lastNo,$opencode);
+        return $this->opdata('21',$lastNo,$opencode,'5');
+
+    }
+    public function jssc()
+    {
+        $lastNo=$this->getGameLastNo('17');
+        //echo $lastNo;die;
+        $zddata = $this->getGameZdData('17',$lastNo);
+        $opencode =$zddata;
+        if(!$opencode){
+            $opencode=$this->randKeysb('10');
+        }
+
+        return $this->opdata('17',$lastNo,$opencode,'10');
+
+    }
+
+    public function yflhc()
+    {
+        $lastNo=$this->getGameLastNo('20');
+        //echo $lastNo;die;
+        $zddata = $this->getGameZdData('20',$lastNo);
+        $opencode =$zddata;
+        if(!$opencode){
+            $opencode=$this->randKeysc('7');
+        }
+
+        return $this->opdata('20',$lastNo,$opencode,'7');
 
     }
 

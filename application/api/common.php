@@ -1,104 +1,94 @@
 <?php
-function kaijiang($wanfa,$content,$peilv,$money,$result){
+function kaijiang($csk,$wanfa,$content,$peilv,$money,$result){
+    if($csk=='21'){
+        return yifenssckj($wanfa,$content,$peilv,$money,$result);
+    }
+}
+function yifenlhckj($wanfa,$content,$peilv,$money,$result){
+
+}
+function yifenssckj($wanfa,$content,$peilv,$money,$result){
     $da=['5','6','7','8','9'];
     $xiao=['0','1','2','3','4'];
     $dan=['1','3','5','7','9'];
     $shuang=['0','2','4','6','8'];
     $zhi=['1','2','3','5','7'];
     $he=['0','4','6','8','9'];
-    $arr=explode('-',$content);
+//    $arr=explode('-',$content);
     $resarr=explode(',',$result);
     $zong=0;
     foreach ($resarr as $v){
         $zong=$zong+$v;
     }
     switch ($wanfa){
-        case  'LHE':
-            if($arr[0]=='15'){
-                if($arr[1]=='L'){
+        case  'wuxuanyi':
+
+        case  'yivwu':
+
+                if($content=='long'){
                     if($resarr[0]>$resarr[4]){
                         return $peilv*$money;
                     }else{
                         return -$money;
                     }
                 }
-                if($arr[1]=='H'){
+                if($content=='hu'){
                     if($resarr[0]<$resarr[4]){
                         return $peilv*$money;
                     }else{
                         return -$money;
                     }
                 }
-                if($arr[1]=='E'){
+                if($content=='he'){
                     if($resarr[0]==$resarr[4]){
                         return $peilv*$money;
                     }else{
                         return -$money;
                     }
                 }
-
-            }
-
-        case  'DX':
-            if($arr[1]=='D'){
-                if(in_array($resarr[$arr[0]],$da)){
+        case 'shuangmian':
+                if($content=='da'){
+                    if(in_array($resarr[0],$da)){
+                        return $peilv*$money;
+                    }else{
+                        return -$money;
+                    }
+                }
+                if($content=='xiao'){
+                    if(in_array($resarr[0],$xiao)){
+                        return $peilv*$money;
+                    }else{
+                        return -$money;
+                    }
+                }
+                if($content=='dan'){
+                    if(in_array($resarr[0],$dan)){
+                        return $peilv*$money;
+                    }else{
+                        return -$money;
+                    }
+                }
+                if($content=='shuang'){
+                    if(in_array($resarr[0],$shuang)){
+                        return $peilv*$money;
+                    }else{
+                        return -$money;
+                    }
+                }
+                if($content=='zhi'){
+                if(in_array($resarr[0],$zhi)){
                     return $peilv*$money;
                 }else{
                     return -$money;
                 }
-
-            }
-            if($arr[1]=='X'){
-            if(in_array($resarr[$arr[0]],$xiao)){
-                return $peilv*$money;
-            }else{
-                return -$money;
-            }
-
-            }
-
-        case  'DS':
-            if($arr[1]=='D'){
-                if(in_array($resarr[$arr[0]],$dan)){
+                }
+                if($content=='he'){
+                if(in_array($resarr[0],$he)){
                     return $peilv*$money;
                 }else{
                     return -$money;
                 }
-
-            }
-            if($arr[1]=='S'){
-                if(in_array($resarr[$arr[0]],$shuang)){
-                    return $peilv*$money;
-                }else{
-                    return -$money;
                 }
-
-            }
-        case  'ZH':
-            if($arr[1]=='D'){
-                if(in_array($resarr[$arr[0]],$zhi)){
-                    return $peilv*$money;
-                }else{
-                    return -$money;
-                }
-
-            }
-            if($arr[1]=='X'){
-                if(in_array($resarr[$arr[0]],$he)){
-                    return $peilv*$money;
-                }else{
-                    return -$money;
-                }
-
-            }
-        case  'SZ':
-            $arrsz=explode(',',$arr[1]);
-            $smoney=$money/count($arrsz);
-            if(in_array($resarr[$arr[0]],$arrsz)){
-                return $peilv*$smoney;
-            }else{
-                return -$money;
-            }
 
     }
 }

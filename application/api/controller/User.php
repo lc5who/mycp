@@ -19,18 +19,69 @@ class User extends Base
     public $wallet;
     public function _initialize()
     {
+        //echo '1';
         //验证token 获取用户
         parent::_initialize();
-        $this->user=UserModel::where('id',3049)->find();
-        $this->wallet=Wallet::where('uid',3049)->find();
+        //var_dump( $_SERVER);
+        $token=$this->request->header('AUTHORIZATION');
+        //var_dump($token);
+        //echo $token ;die;
+        if(empty($token)){
+            // writeJson(-1,'非法请求');die;
+            echo json_encode(['code'=>-1,'msg'=>'非法请求']);die;
+        }
+        $redis=new \Redis();
+        $redis->connect('127.0.0.1',6379);
+        $redis->auth('123321');
+
+        $userinfo=$redis->hGetAll($token);
+        //var_dump($userinfo);
+        $userinfo['uid']=3049;
+        $this->user=UserModel::where('id',$userinfo['uid'])->find();
+        $this->wallet=Wallet::where('uid',$userinfo['uid'])->find();
     }
 
+    public function getUserBets(Request $request)
+    {
+        if($request->isPost()){
+
+            $flag=$request->post('flag',0);
+            if($flag==0){
+                $list=Orders::where('uid',$this->user['id'])->where('status',$flag)
+                    ->field('type,qishu,wanfa,zhudan,money,result,win,csk')
+                    ->order('id desc')->limit(20)->select();
+            }
+            if($flag==1){
+                $list=Orders::where('uid',$this->user['id'])->where('win','gt',0)
+                    ->field('type,qishu,wanfa,zhudan,money,result,win,csk')
+                    ->order('id desc')->limit(20)->select();
+            }
+            if($flag==2){
+                $list=Orders::where('uid',$this->user['id'])
+                    ->field('type,qishu,wanfa,zhudan,money,result,win,csk')
+                    ->order('id desc')->limit(20)->select();
+            }
+            return writeJson(0,'success',$list);
+
+
+        }
+        return writeJson('-1','参数错误');
+//        return $this->user['id'];
+//        Db::name('bet')->where('uid',$this->user['id']);
+
+    }
+
+    public function getUserPeilv()
+    {
+        $peilv=config('apipeilv');
+        return json($peilv);
+    }
     public function bet(Request $request)
     {
         //dump($this->user);die;
 //         dump(config('peilv.21'));die;
 
-        //{"lottery":"SSCJSC","drawNumber":"11439027","bets":[{"game":"ZDX","contents":"D","amount":1,"odds":1.99},{"game":"LH","contents":"H","amount":1,"odds":1.99}],"ignore":false}
+        //{"csk":"SSCJSC","drawNumber":"11439027","bets":[{"game":"ZDX","contents":"D","amount":1,"odds":1.99},{"game":"LH","contents":"H","amount":1,"odds":1.99}],"ignore":false}
         if($request->isPost()){
             $betData=$request->post();
 //            if(!isset($betData['csk'])){
@@ -83,8 +134,8 @@ class User extends Base
 //                    'username'=>$this->user['bind_phone'],
                         'type'=>$lotter['name'],
                         'qishu'=>$curNo['qishu'],
-                        'mingxi_1'=>$obj['game'],
-                        'mingxi_2'=>$obj['contents'],
+                        'wanfa'=>$obj['game'],
+                        'zhudan'=>$obj['contents'],
                         'odds'=>$peilv[$obj['game']],
                         'money'=>$obj['amount'],
                         'win'=>'0',
@@ -121,10 +172,12 @@ class User extends Base
             //$csk=isset($betData['csk'])?$betData['csk']:-1;
 
         }
+        return writeJson('-1','参数错误');
 
 
        // dump((array)UserModel::all());
     }
+
     public function orderSn()
     {
         //$res=0;
@@ -135,4 +188,9 @@ class User extends Base
         }while($res);
         return $orderSn;
     }
+
+//    public function getRedis()
+//    {
+//
+//    }
 }

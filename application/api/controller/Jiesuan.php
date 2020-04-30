@@ -17,7 +17,7 @@ use Workerman\Lib\Timer;
 class Jiesuan extends Server
 {
 
-    protected $processes=100;
+    protected $processes=8;
 //    protected $socket    = '';
     protected $protocol  = 'websocket';
     protected $host      = '0.0.0.0';
@@ -39,7 +39,7 @@ class Jiesuan extends Server
             foreach ($betlist as $k=>$v){
 
 
-                $win=kaijiang($v['mingxi_1'],$v['mingxi_2'],$v['odds'],$v['money'],$task_data['number']);
+                $win=kaijiang($csk,$v['wanfa'],$v['zhudan'],$v['odds'],$v['money'],$task_data['number']);
                 $data=[
                     'endtime'=>time(),
                     'result'=>$task_data['number'],
