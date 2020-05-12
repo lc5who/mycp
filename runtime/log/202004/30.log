@@ -1,38 +1,9 @@
 ---------------------------------------------------------------
-[ 2020-04-30T20:07:19+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfks?
-[运行时间：0.280586s] [吞吐率：3.56req/s] [内存消耗：3,492.05kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ 2020-04-30T21:55:17+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfsyxw?
+[运行时间：0.255180s] [吞吐率：3.92req/s] [内存消耗：3,492.22kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
 [ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009523s ]
-[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
-[ info ] [ ROUTE ] array (
-  'type' => 'module',
-  'module' => 
-  array (
-    0 => 'api',
-    1 => 'oplottery',
-    2 => 'yfks',
-  ),
-)
-[ info ] [ HEADER ] array (
-  'accept' => '*/*',
-  'host' => 'mycp.com',
-  'content-type' => '',
-  'content-length' => '',
-)
-[ info ] [ PARAM ] array (
-)
-[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005401s ]
-[ info ] [ RUN ] app\api\controller\Oplottery->yfks[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
-[ info ] [ DB ] INIT mysql
-[ info ] [ LOG ] INIT File
----------------------------------------------------------------
-[ 2020-04-30T20:07:19+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfsyxw?
-[运行时间：0.262514s] [吞吐率：3.81req/s] [内存消耗：3,492.27kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
-[ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009578s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009014s ]
 [ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
@@ -52,16 +23,16 @@
 [ info ] [ PARAM ] array (
 )
 [ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004625s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004970s ]
 [ info ] [ RUN ] app\api\controller\Oplottery->yfsyxw[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
-[ 2020-04-30T20:07:23+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfklsf?
-[运行时间：0.235110s] [吞吐率：4.25req/s] [内存消耗：3,492.27kb] [文件加载：130]
+[ 2020-04-30T21:55:20+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfklsf?
+[运行时间：0.228506s] [吞吐率：4.38req/s] [内存消耗：3,492.27kb] [文件加载：130]
 [ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
 [ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007786s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007528s ]
 [ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
@@ -81,16 +52,16 @@
 [ info ] [ PARAM ] array (
 )
 [ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005218s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004982s ]
 [ info ] [ RUN ] app\api\controller\Oplottery->yfklsf[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
-[ 2020-04-30T20:07:23+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jssc?
-[运行时间：0.263128s] [吞吐率：3.80req/s] [内存消耗：3,492.13kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ 2020-04-30T21:55:21+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jssc?
+[运行时间：0.238932s] [吞吐率：4.19req/s] [内存消耗：3,492.13kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
 [ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008114s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008751s ]
 [ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
@@ -110,74 +81,422 @@
 [ info ] [ PARAM ] array (
 )
 [ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005354s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004842s ]
 [ info ] [ RUN ] app\api\controller\Oplottery->jssc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
-[ 2020-04-30T20:07:23+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yflhc?
-[运行时间：0.235514s] [吞吐率：4.25req/s] [内存消耗：3,492.15kb] [文件加载：130]
+[ 2020-04-30T21:55:21+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yflhc?
+[运行时间：0.244848s] [吞吐率：4.08req/s] [内存消耗：3,492.15kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008526s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'yflhc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005016s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->yflhc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T21:55:21+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jsssc?
+[运行时间：0.224254s] [吞吐率：4.46req/s] [内存消耗：3,492.14kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008607s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'jsssc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005098s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->jsssc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T21:55:21+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfks?
+[运行时间：0.287190s] [吞吐率：3.48req/s] [内存消耗：3,492.10kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010902s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'yfks',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005277s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->yfks[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T21:55:22+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfsyxw?
+[运行时间：0.267065s] [吞吐率：3.74req/s] [内存消耗：3,492.27kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012370s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'yfsyxw',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005628s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->yfsyxw[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T22:11:02+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfklsf?
+[运行时间：2.936730s] [吞吐率：0.34req/s] [内存消耗：3,491.98kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000060s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.106619s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'yfklsf',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.074557s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->yfklsf[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T22:11:04+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jssc?
+[运行时间：2.078694s] [吞吐率：0.48req/s] [内存消耗：3,491.82kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000098s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.067453s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'jssc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.034081s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->jssc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T22:11:09+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yflhc?
+[运行时间：4.491516s] [吞吐率：0.22req/s] [内存消耗：3,491.85kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000076s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.154035s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'yflhc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.083702s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->yflhc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T22:11:09+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jsssc?
+[运行时间：0.362469s] [吞吐率：2.76req/s] [内存消耗：3,491.85kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010627s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'jsssc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006575s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->jsssc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T22:11:10+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfks?
+[运行时间：0.327796s] [吞吐率：3.05req/s] [内存消耗：3,491.82kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011715s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'yfks',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006221s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->yfks[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T22:11:10+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfsyxw?
+[运行时间：0.312277s] [吞吐率：3.20req/s] [内存消耗：3,491.98kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010566s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'yfsyxw',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006314s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->yfsyxw[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T22:11:10+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfklsf?
+[运行时间：0.298769s] [吞吐率：3.35req/s] [内存消耗：3,492.27kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010353s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'yfklsf',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006660s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->yfklsf[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T22:11:11+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jssc?
+[运行时间：0.271572s] [吞吐率：3.68req/s] [内存消耗：3,492.13kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009684s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'jssc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005782s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->jssc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T22:11:11+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yflhc?
+[运行时间：0.304759s] [吞吐率：3.28req/s] [内存消耗：3,492.15kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000047s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010378s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'yflhc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006863s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->yflhc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T22:11:11+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jsssc?
+[运行时间：0.231648s] [吞吐率：4.32req/s] [内存消耗：3,492.14kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT file
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007467s ]
+[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'oplottery',
+    2 => 'jsssc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mycp.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004418s ]
+[ info ] [ RUN ] app\api\controller\Oplottery->jsssc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-30T22:11:11+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfks?
+[运行时间：0.266085s] [吞吐率：3.76req/s] [内存消耗：3,492.10kb] [文件加载：130]
 [ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
 [ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008079s ]
-[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
-[ info ] [ ROUTE ] array (
-  'type' => 'module',
-  'module' => 
-  array (
-    0 => 'api',
-    1 => 'oplottery',
-    2 => 'yflhc',
-  ),
-)
-[ info ] [ HEADER ] array (
-  'accept' => '*/*',
-  'host' => 'mycp.com',
-  'content-type' => '',
-  'content-length' => '',
-)
-[ info ] [ PARAM ] array (
-)
-[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005062s ]
-[ info ] [ RUN ] app\api\controller\Oplottery->yflhc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
-[ info ] [ DB ] INIT mysql
-[ info ] [ LOG ] INIT File
----------------------------------------------------------------
-[ 2020-04-30T20:07:24+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jsssc?
-[运行时间：0.241755s] [吞吐率：4.14req/s] [内存消耗：3,492.14kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
-[ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007677s ]
-[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
-[ info ] [ ROUTE ] array (
-  'type' => 'module',
-  'module' => 
-  array (
-    0 => 'api',
-    1 => 'oplottery',
-    2 => 'jsssc',
-  ),
-)
-[ info ] [ HEADER ] array (
-  'accept' => '*/*',
-  'host' => 'mycp.com',
-  'content-type' => '',
-  'content-length' => '',
-)
-[ info ] [ PARAM ] array (
-)
-[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004817s ]
-[ info ] [ RUN ] app\api\controller\Oplottery->jsssc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
-[ info ] [ DB ] INIT mysql
-[ info ] [ LOG ] INIT File
----------------------------------------------------------------
-[ 2020-04-30T20:07:24+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfks?
-[运行时间：0.232227s] [吞吐率：4.31req/s] [内存消耗：3,492.10kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
-[ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007679s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008982s ]
 [ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
@@ -197,16 +516,16 @@
 [ info ] [ PARAM ] array (
 )
 [ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004688s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005327s ]
 [ info ] [ RUN ] app\api\controller\Oplottery->yfks[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
-[ 2020-04-30T20:07:24+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfsyxw?
-[运行时间：0.226567s] [吞吐率：4.41req/s] [内存消耗：3,492.27kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ 2020-04-30T22:11:12+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfsyxw?
+[运行时间：0.298229s] [吞吐率：3.35req/s] [内存消耗：3,492.27kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
 [ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007526s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009343s ]
 [ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
@@ -226,16 +545,16 @@
 [ info ] [ PARAM ] array (
 )
 [ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004721s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005440s ]
 [ info ] [ RUN ] app\api\controller\Oplottery->yfsyxw[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
-[ 2020-04-30T20:07:28+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfklsf?
-[运行时间：0.239285s] [吞吐率：4.18req/s] [内存消耗：3,492.27kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ 2020-04-30T22:11:16+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfklsf?
+[运行时间：0.246558s] [吞吐率：4.06req/s] [内存消耗：3,492.27kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
 [ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007968s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007987s ]
 [ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
@@ -255,16 +574,16 @@
 [ info ] [ PARAM ] array (
 )
 [ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004617s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004576s ]
 [ info ] [ RUN ] app\api\controller\Oplottery->yfklsf[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
-[ 2020-04-30T20:07:28+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jssc?
-[运行时间：0.309468s] [吞吐率：3.23req/s] [内存消耗：3,492.13kb] [文件加载：130]
+[ 2020-04-30T22:11:16+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jssc?
+[运行时间：0.245726s] [吞吐率：4.07req/s] [内存消耗：3,492.13kb] [文件加载：130]
 [ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
 [ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011462s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008109s ]
 [ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
@@ -284,16 +603,16 @@
 [ info ] [ PARAM ] array (
 )
 [ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006586s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005185s ]
 [ info ] [ RUN ] app\api\controller\Oplottery->jssc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
-[ 2020-04-30T20:07:28+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yflhc?
-[运行时间：0.227435s] [吞吐率：4.40req/s] [内存消耗：3,492.15kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ 2020-04-30T22:11:16+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yflhc?
+[运行时间：0.227891s] [吞吐率：4.39req/s] [内存消耗：3,492.15kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
 [ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007599s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008097s ]
 [ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
@@ -313,16 +632,16 @@
 [ info ] [ PARAM ] array (
 )
 [ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004807s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004296s ]
 [ info ] [ RUN ] app\api\controller\Oplottery->yflhc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
-[ 2020-04-30T20:07:29+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jsssc?
-[运行时间：0.230450s] [吞吐率：4.34req/s] [内存消耗：3,492.14kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ 2020-04-30T22:11:17+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jsssc?
+[运行时间：0.260445s] [吞吐率：3.84req/s] [内存消耗：3,492.14kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
 [ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007872s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008257s ]
 [ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
@@ -342,16 +661,16 @@
 [ info ] [ PARAM ] array (
 )
 [ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005074s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005540s ]
 [ info ] [ RUN ] app\api\controller\Oplottery->jsssc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
-[ 2020-04-30T20:07:29+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfks?
-[运行时间：0.229308s] [吞吐率：4.36req/s] [内存消耗：3,492.10kb] [文件加载：130]
+[ 2020-04-30T22:11:17+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfks?
+[运行时间：0.235553s] [吞吐率：4.25req/s] [内存消耗：3,492.10kb] [文件加载：130]
 [ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
 [ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007492s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009467s ]
 [ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
@@ -371,190 +690,16 @@
 [ info ] [ PARAM ] array (
 )
 [ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004618s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006971s ]
 [ info ] [ RUN ] app\api\controller\Oplottery->yfks[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
-[ 2020-04-30T20:07:29+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfsyxw?
-[运行时间：0.225127s] [吞吐率：4.44req/s] [内存消耗：3,492.27kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
-[ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007969s ]
-[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
-[ info ] [ ROUTE ] array (
-  'type' => 'module',
-  'module' => 
-  array (
-    0 => 'api',
-    1 => 'oplottery',
-    2 => 'yfsyxw',
-  ),
-)
-[ info ] [ HEADER ] array (
-  'accept' => '*/*',
-  'host' => 'mycp.com',
-  'content-type' => '',
-  'content-length' => '',
-)
-[ info ] [ PARAM ] array (
-)
-[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004953s ]
-[ info ] [ RUN ] app\api\controller\Oplottery->yfsyxw[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
-[ info ] [ DB ] INIT mysql
-[ info ] [ LOG ] INIT File
----------------------------------------------------------------
-[ 2020-04-30T20:07:33+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfklsf?
-[运行时间：0.231095s] [吞吐率：4.33req/s] [内存消耗：3,492.27kb] [文件加载：130]
+[ 2020-04-30T22:11:17+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfsyxw?
+[运行时间：0.231696s] [吞吐率：4.32req/s] [内存消耗：3,492.27kb] [文件加载：130]
 [ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
 [ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007628s ]
-[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
-[ info ] [ ROUTE ] array (
-  'type' => 'module',
-  'module' => 
-  array (
-    0 => 'api',
-    1 => 'oplottery',
-    2 => 'yfklsf',
-  ),
-)
-[ info ] [ HEADER ] array (
-  'accept' => '*/*',
-  'host' => 'mycp.com',
-  'content-type' => '',
-  'content-length' => '',
-)
-[ info ] [ PARAM ] array (
-)
-[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004608s ]
-[ info ] [ RUN ] app\api\controller\Oplottery->yfklsf[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
-[ info ] [ DB ] INIT mysql
-[ info ] [ LOG ] INIT File
----------------------------------------------------------------
-[ 2020-04-30T20:07:33+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jssc?
-[运行时间：0.231022s] [吞吐率：4.33req/s] [内存消耗：3,492.13kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
-[ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008059s ]
-[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
-[ info ] [ ROUTE ] array (
-  'type' => 'module',
-  'module' => 
-  array (
-    0 => 'api',
-    1 => 'oplottery',
-    2 => 'jssc',
-  ),
-)
-[ info ] [ HEADER ] array (
-  'accept' => '*/*',
-  'host' => 'mycp.com',
-  'content-type' => '',
-  'content-length' => '',
-)
-[ info ] [ PARAM ] array (
-)
-[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004955s ]
-[ info ] [ RUN ] app\api\controller\Oplottery->jssc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
-[ info ] [ DB ] INIT mysql
-[ info ] [ LOG ] INIT File
----------------------------------------------------------------
-[ 2020-04-30T20:07:33+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yflhc?
-[运行时间：0.228776s] [吞吐率：4.37req/s] [内存消耗：3,492.15kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
-[ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008086s ]
-[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
-[ info ] [ ROUTE ] array (
-  'type' => 'module',
-  'module' => 
-  array (
-    0 => 'api',
-    1 => 'oplottery',
-    2 => 'yflhc',
-  ),
-)
-[ info ] [ HEADER ] array (
-  'accept' => '*/*',
-  'host' => 'mycp.com',
-  'content-type' => '',
-  'content-length' => '',
-)
-[ info ] [ PARAM ] array (
-)
-[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004836s ]
-[ info ] [ RUN ] app\api\controller\Oplottery->yflhc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
-[ info ] [ DB ] INIT mysql
-[ info ] [ LOG ] INIT File
----------------------------------------------------------------
-[ 2020-04-30T20:07:34+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/jsssc?
-[运行时间：0.229356s] [吞吐率：4.36req/s] [内存消耗：3,492.14kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
-[ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007568s ]
-[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
-[ info ] [ ROUTE ] array (
-  'type' => 'module',
-  'module' => 
-  array (
-    0 => 'api',
-    1 => 'oplottery',
-    2 => 'jsssc',
-  ),
-)
-[ info ] [ HEADER ] array (
-  'accept' => '*/*',
-  'host' => 'mycp.com',
-  'content-type' => '',
-  'content-length' => '',
-)
-[ info ] [ PARAM ] array (
-)
-[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004669s ]
-[ info ] [ RUN ] app\api\controller\Oplottery->jsssc[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
-[ info ] [ DB ] INIT mysql
-[ info ] [ LOG ] INIT File
----------------------------------------------------------------
-[ 2020-04-30T20:07:34+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfks?
-[运行时间：0.257102s] [吞吐率：3.89req/s] [内存消耗：3,492.10kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
-[ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009031s ]
-[ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
-[ info ] [ ROUTE ] array (
-  'type' => 'module',
-  'module' => 
-  array (
-    0 => 'api',
-    1 => 'oplottery',
-    2 => 'yfks',
-  ),
-)
-[ info ] [ HEADER ] array (
-  'accept' => '*/*',
-  'host' => 'mycp.com',
-  'content-type' => '',
-  'content-length' => '',
-)
-[ info ] [ PARAM ] array (
-)
-[ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005419s ]
-[ info ] [ RUN ] app\api\controller\Oplottery->yfks[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
-[ info ] [ DB ] INIT mysql
-[ info ] [ LOG ] INIT File
----------------------------------------------------------------
-[ 2020-04-30T20:07:34+08:00 ] 127.0.0.1 GET mycp.com/api/oplottery/yfsyxw?
-[运行时间：0.233246s] [吞吐率：4.29req/s] [内存消耗：3,492.27kb] [文件加载：130]
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
-[ info ] [ CACHE ] INIT file
-[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008313s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007948s ]
 [ info ] [ LANG ] /www/wwwroot/mycp.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
@@ -574,7 +719,7 @@
 [ info ] [ PARAM ] array (
 )
 [ info ] [ LANG ] /www/wwwroot/mycp.com/public/../application/api/lang/zh-cn.php
-[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004874s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004886s ]
 [ info ] [ RUN ] app\api\controller\Oplottery->yfsyxw[ /www/wwwroot/mycp.com/application/api/controller/Oplottery.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
